@@ -1,4 +1,4 @@
-# 🛡️ ARGUS 
+# <img src="https://cdn.simpleicons.org/razorpay/3395FF" height="40" alt="Razorpay" /> ARGUS
 
 > **A closed-loop, automated reliability workflow: Detect, Investigate, Root-Cause, Auto-Remediate, and Verify.**
 
@@ -8,7 +8,58 @@ The AI Reliability Engineer detects a real regression, investigates with real ev
 
 While most "AI monitoring" demos stop at detection and anomaly alerts, this system **closes the loop** through verified recovery. It proves that an AI agent workflow can end with a safely executed remediation that demonstrably restores system health.
 
----
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
+
+## 💻 Tech Stack
+
+**Frontend**<br>
+<img src="https://cdn.simpleicons.org/nextdotjs/white" height="40" alt="Next.js" title="Next.js" /> &nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" title="React" /> &nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+<br><br>
+
+**Backend & AI**<br>
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="FastAPI" title="FastAPI" /> &nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" title="Python" /> &nbsp;
+<img src="https://cdn.simpleicons.org/sqlite/white" height="40" alt="SQLite" title="SQLite" /> &nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Google Gemini" title="Google Gemini" />
+<br><br>
+
+**Telemetry & Infrastructure**<br>
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" alt="Prometheus" title="Prometheus" /> &nbsp;
+<img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="Loki" title="Loki" /> &nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" title="Docker" />
+<br><br>
+
+**Integrations**<br>
+<img src="https://cdn.simpleicons.org/razorpay/3395FF" height="40" alt="Razorpay" title="Razorpay" /> &nbsp;
+<img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" title="GitHub" />
+
+<br>
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
+<br>
+
+## 🎥 Demo Video
+
+Watch the end-to-end automated reliability workflow in action:
+
+<div align="center">
+  <br>
+  <a href="https://youtu.be/cVogpYI30Rc?si=kSrircLwE3RvdVRK">
+    <img src="https://github.com/user-attachments/assets/7fa2d0f0-d69c-4831-bcae-207a1b692338" alt="Argus Demo Video" width="65%" />
+  </a>
+
+  <br><br>
+
+  <a href="https://youtu.be/cVogpYI30Rc?si=kSrircLwE3RvdVRK">
+    <img src="https://img.shields.io/badge/Click_Here_For_Demo_Video-02042B?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+  <br>
+</div>
+
+<br>
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
+<br>
 
 ## 🏗️ Architecture & Component Responsibilities
 
@@ -37,7 +88,7 @@ This project prioritizes a fast, self-contained **golden path** optimized for ha
 
 *(Note: Kubernetes, cloud deployment, and microservices were deliberately out of scope for this build to keep the focus tight and optimize for demonstration speed.)*
 
----
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
 
 ## 🔄 End-to-End Workflow
 
@@ -52,7 +103,7 @@ The system facilitates a completely observable lifecycle for every incident:
 7. **Verification**: The system actively polls metrics *after* remediation to mathematically prove the incident is no longer firing.
 8. **Reporting & Recovery**: An automated Root Cause markdown report is generated and can be pushed as a real GitHub Issue.
 
----
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
 
 ## 🧠 AI Utilization & Safeguards
 
@@ -63,7 +114,7 @@ The AI (Gemini) is treated as untrusted. Output is independently checked against
 - **Bounded Retries**: If the AI schema fails validation, the system automatically asks the model to correct itself within a bounded limit.
 - **No Direct Execution**: The LLM *cannot* directly mutate the system. It only proposes remediations from a strict allowlist.
 
----
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
 
 ## 🔌 Core Integrations
 
@@ -71,7 +122,7 @@ The AI (Gemini) is treated as untrusted. Output is independently checked against
 - **GitHub**: Supports real markdown report generation containing incident facts and RCA summaries. Optionally creates real GitHub issues. Fails gracefully if not configured.
 - **Google Gemini**: Powers the Root Cause Analysis engine.
 
----
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
 
 ## 🚀 Quick Start / Setup
 
@@ -136,7 +187,7 @@ npm install
 npm run dev
 ```
 
----
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
 
 ## 🎯 Running the Demo Golden Path
 
@@ -156,7 +207,7 @@ Access the main dashboard at `http://localhost:3000` to run the incident lifecyc
 ### 🎭 Rehearsal tooling
 To ensure hackathon or live demonstrations are snappy, setting `DEMO_MODE=true` inside a `.env` file exposes endpoints to immediately inject traffic ("Warm Up Traffic") and securely flush databases ("Reset Demo Data"), while bypassing standard cooldown delays.
 
----
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
 
 ## 🧪 Testing
 
@@ -171,7 +222,7 @@ pytest backend/tests/ -m e2e
 ```
 *Note: Back-end tests protected by the E2E marker fail gracefully or skip if the `AI_API_KEY` is not present, maintaining green core CI boundaries.*
 
----
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
 
 ## 🛡️ Security Model
 
@@ -182,7 +233,7 @@ The system protects against runaway agents and credential spraying:
 - **Cryptographic Validation**: Constant-time signature comparison for webhook validation prevents timing attacks.
 *(This model is continuously verified by `tests/test_security.py`)*
 
----
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
 
 ## 🚧 Design Decisions & Limitations
 
@@ -193,4 +244,8 @@ As an optimized showcase architecture, several features were intentionally defer
 - **Single-Node**: Telemetry points locally; kubernetes/multi-node scaling bindings are deferred.
 - **Human-in-the-Middle limitation**: The system deliberately forces human approval for remediation. Future versions might offer automated fallback recovery policies.
 
----
+<br>
+<div align="center"><img src="https://placehold.co/100x3/3395FF/3395FF.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2E85E7/2E85E7.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2875D0/2875D0.png" width="10%" height="3px"><img src="https://placehold.co/100x3/2365B8/2365B8.png" width="10%" height="3px"><img src="https://placehold.co/100x3/1D55A1/1D55A1.png" width="10%" height="3px"><img src="https://placehold.co/100x3/184589/184589.png" width="10%" height="3px"><img src="https://placehold.co/100x3/123472/123472.png" width="10%" height="3px"><img src="https://placehold.co/100x3/0D245A/0D245A.png" width="10%" height="3px"><img src="https://placehold.co/100x3/071443/071443.png" width="10%" height="3px"><img src="https://placehold.co/100x3/02042B/02042B.png" width="10%" height="3px"></div>
+<div align="center">
+  <b>Built by Shredev with ❤️</b>
+</div>
